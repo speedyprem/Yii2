@@ -21,7 +21,7 @@ Download complete source code from : http://demos.freewebmentor.com
 
 ```
 
-(http://www.freewebmentor.com/wp-content/uploads/2016/07/yii2-user-table-schema.png "Yii2 User Table schema")
+![Yii2 User Table schema](http://www.freewebmentor.com/wp-content/uploads/2016/07/yii2-user-table-schema.png "Yii2 User Table schema")
 
 
-* You can download table from http://www.freewebmentor.com/2016/07/sql-user-table-schema-yii2-starter-kit.html
+* You can download SQL table with admin login details from http://www.freewebmentor.com/2016/07/sql-user-table-schema-yii2-starter-kit.html
