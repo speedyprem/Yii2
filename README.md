@@ -1,6 +1,6 @@
 #User Table Database Schema For Yii2 Starter Kit
 
-Download complete source code from : http://demos.freewebmentor.com
+Download complete source code from : https://www.freewebmentor.com/demos/
 
 #User table structure
 
